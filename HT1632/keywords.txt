@@ -1,0 +1,70 @@
+#######################################
+# Syntax Coloring Map For Morse
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+HT1624	KEYWORD1	
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+master_rc KEYWORD2
+slave_rc   KEYWORD2
+commons  KEYWORD2
+pwm_16  KEYWORD2
+write_high  KEYWORD2
+write_low  KEYWORD2
+data_low  KEYWORD2
+data_high  KEYWORD2
+ht1632_write1  KEYWORD2
+ht1632_write  KEYWORD2
+ht1632_adr1  KEYWORD2
+ht1632_adr  KEYWORD2
+ht1632_master_command  KEYWORD2
+ht1632_slave_command  KEYWORD2
+
+
+
+  init KEYWORD2
+  ht_com KEYWORD2
+  com_id KEYWORD2
+  ht_data KEYWORD2
+  data_id KEYWORD2
+
+com_option KEYWORD2
+  sys_dis KEYWORD2
+   sys_en KEYWORD2
+  led_on  KEYWORD2
+  led_off;
+  pwm_duty KEYWORD2
+
+rc_master KEYWORD2
+debut KEYWORD2
+fin KEYWORD2
+clear KEYWORD2
+affiche_font1 KEYWORD2
+affiche_font2 KEYWORD2
+affiche_font3 KEYWORD2
+afficher1 KEYWORD2
+afficher1 KEYWORD2
+afficher1 KEYWORD2
+charger  KEYWORD2
+tourner  KEYWORD2
+clear  KEYWORD2
+ht1632_init KEYWORD2
+permute KEYWORD2
+ht1632_write KEYWORD2
+ht1632_adr KEYWORD2
+tester KEYWORD2
+longueur  KEYWORD2
+afficher1  KEYWORD2
+afficher2  KEYWORD2
+afficher3  KEYWORD2
+
+# HT1632 Class
